@@ -1,0 +1,34 @@
+EDUCATION
+University of Seoul Seoul, Korea
+B.S. in Electrical and Computer Engineering (major GPA: 4.04/4.5) Mar. 2016 ? Feb. 2022
+
+WORK EXPERIENCE
+LX Semicon. Digital Design Engineer ? LST Research Team (Link System Technology) Mar. 2022 - Persent
+- Developed Interface IP using Verilog. The Interface IP performs operations such as encoding,
+decoding, serdes, alignment, and control signal generation.
+- Developed the TX Model & RX PHY Model using SystemVerilog.
+- Applied verification process, leading to the development of the IP without any revisions.
+ICS. Trainee ? Specialized Training Program in System Semiconductor Design Jun. 2021 ? Sep. 2021
+- Learned about the Digital Simulation, RTL Synthesis, and LEC (Logical Equivalence
+Checking) processes for IP development.
+- Learned about STA (Static Timing Analysis), SCAN, ATPG, and Memory BIST for IP
+synthesis and testing.
+Parallel Software Design Lab. Internship ? University of Seoul Jun. 2020 ? Aug. 2020
+Learned about accelerating the speed of filter operations using CUDA.
+Created an environment for image detection using Darknet and YOLOv3.
+
+SKILLS
+Languages: Korean (native), English (intermediate)
+Language Skills: C/C++, Verilog, SystemVerilog, Python, Matlab, CUDA
+
+Tools
+- Digital Design: Verdi, Xcelium, VCS, SpyGlass(Lint, CDC), Design Compiler, Xilinx
+ISE/Vivado
+- Analog Design: Virtuoso, LTspice
+- Microsoft Office: Excel, Visio, PowerPoint
+
+AWARDS AND HONORS
+- programming contest Gold Award (Division 1), University of Seoul Dec. 2020
+- programming contest Gold Award (Division 2), University of Seoul Dec. 2019
+- University Innovation Support Program Scholarship, University of Seoul Dec. 2020
+- Academic Scholarship, University of Seoul Jul. 2020
